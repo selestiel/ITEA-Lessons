@@ -1,0 +1,12 @@
+[submodule "FactoryLesson"]
+	path = FactoryLesson
+	url = git@github.com:smay1613/FactoryLesson.git
+[submodule "StrategyLesson"]
+	path = StrategyLesson
+	url = git@github.com:smay1613/StrategyLesson.git
+[submodule "ExceptionsLesson"]
+	path = ExceptionsLesson
+	url = git@github.com:smay1613/ExceptionsLesson.git
+[submodule "LinkedListLesson"]
+	path = LinkedListLesson
+	url = git@github.com:smay1613/LinkedListLesson.git
